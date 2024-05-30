@@ -1,0 +1,30 @@
+*
+{
+ margin: 0;
+  border: border-box;  
+  font-family: Arial;
+}
+
+.fotter-content{
+  background-color: rgb(14, 45, 106);
+  height: 400px;
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.fotter-content p{
+  color: white;
+}
+
+ul
+{
+  margin-top: 15px;
+}
+
+ul a {
+  display: block;
+  color: #DDDD;
+  margin-top: 10px;
+}
+
